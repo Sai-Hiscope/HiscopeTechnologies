@@ -57,9 +57,11 @@ const Contact = () => {
                 <Mail className="h-6 w-6 text-pink-600 mt-1 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                  <p className="text-gray-600">saimadiraju@hiscopetech.com</p>
-                  <p className="text-gray-600">careers@hiscopetech.com</p>
-                  <p className="text-gray-600">business@hiscopetech.com</p>
+                  <p className="text-gray-600">ceo@hiscopetech.com</p>
+                  <p className="text-gray-600">hr@hiscopetech.com</p>
+                  <p className="text-gray-600">info@hiscopetech.com</p>
+                  <p className="text-gray-600">recruiter@hiscopetech.com</p>
+                  <p className="text-gray-600">legal@hiscopetech.com</p>
                 </div>
               </div>
 
@@ -67,9 +69,9 @@ const Contact = () => {
                 <Phone className="h-6 w-6 text-pink-600 mt-1 mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Phone</h3>
-                  <p className="text-gray-600">Main: (555) 123-4567</p>
-                  <p className="text-gray-600">Candidates: (555) 123-4568</p>
-                  <p className="text-gray-600">Clients: (555) 123-4569</p>
+                  <p className="text-gray-600">Main: 646 543 2770</p>
+                  <p className="text-gray-600">Candidates: 646 543 2770</p>
+                  <p className="text-gray-600">Clients: 646 543 27709</p>
                 </div>
               </div>
 
@@ -79,9 +81,8 @@ const Contact = () => {
                   <h3 className="text-lg font-semibold text-gray-900">Address</h3>
                   <p className="text-gray-600">
                     Hiscope Technologies<br />
-                    123 Business Avenue<br />
-                    Suite 500<br />
-                    New York, NY 10001
+                    Ste R Sheridan,<br />
+                    Wyoming 82801
                   </p>
                 </div>
               </div>
